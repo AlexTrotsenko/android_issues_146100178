@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android_issues_146100178</string>
+    <string name="action_show_pop_up">Show popup menu</string>
+    <string name="menu_retore">Restore Text</string>
+</resources>
